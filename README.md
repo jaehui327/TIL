@@ -6,7 +6,7 @@
 # 📚 CS
 
 ## Java
-- [Reflection](./2.%20CS/1.%20Java/1.%20Reflection/README.md)
+- [Reflection](./2.%20CS/1.%20Java/1.%20Reflection.md)
 
 # 💻 Algorithm
 
