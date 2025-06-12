@@ -12,8 +12,8 @@
 
 ## DB
 
-- [정규화](./2.%20CS/5.%20Database/1.%20정규화.md)
-- [트랜잭션](./2.%20CS/5.%20Database/2.%20트랜잭션.md)
+- [Nomalization](./2.%20CS/5.%20Database/1.%20Nomalization.md)
+- [Transaction](./2.%20CS/5.%20Database/2.%20Transaction.md)
 
 # 💻 Algorithm
 
