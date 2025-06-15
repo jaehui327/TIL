@@ -59,6 +59,10 @@
 - [Nomalization](./2.%20CS/5.%20Database/1.%20Nomalization.md)
 - [Transaction](./2.%20CS/5.%20Database/2.%20Transaction.md)
 
+## Network
+
+- [Kafka](2.%20CS/4.%20Network/1.%20Kafka.md)
+
 # 💻 Algorithm
 
 # 📊 SQL
