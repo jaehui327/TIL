@@ -52,7 +52,11 @@
 ## Java
 
 - [Reflection](./2.%20CS/1.%20Java/1.%20Reflection.md)
-- [JPA](2.%20CS/1.%20Java/JPA.md)
+
+## JPA
+
+- [JPA](2.%20CS/2.%20Spring/JPA.md)
+- [QueryDSL](./2.%20CS/2.%20Spring/2.%20QueryDSL.md)
 
 ## DB
 
