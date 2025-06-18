@@ -16,8 +16,8 @@
 
 - MMS (2024.11.11 ~ )
 
-  > - [전력거래시스템](./1.%20Portfolio/1.%20KDN/KPX-e-learning.md)
-  > - [Nexacro](./1.%20Portfolio/1.%20KDN/Nexacro.md)
+  > - [Nexacro](./Portfolio/KDN/Nexacro.md)
+  > - [전력거래시스템](./Portfolio/KDN/KPX-e-learning.md)
 
 - 세네갈 ODA 사업 (2024.10.14 ~ 2025.03.31)
 - EMS (2024.08.05 ~ 2024.10.31)
@@ -33,9 +33,9 @@
 
 ## 👩🏻‍💻 삼성청년SW아카데미 8기 (2022.07.06 ~ 2023.06.30)
 
-- [Ta-Da World (2023.04.10 ~ 2023.05.19)](./1.%20Portfolio/3.%20SSAFY/1.%20Ta-Da-World.md)
-- [VODA (2023.02.20 ~ 2023.04.07)](1.%20Portfolio/3.%20SSAFY/2.%20VODA.md)
-- [Corns (2023.01.03 ~ 2023.02.17)](./1.%20Portfolio/3.%20SSAFY/3.%20Corns.md)
+- [Ta-Da World (2023.04.10 ~ 2023.05.19)](./Portfolio/SSAFY/Ta-Da-World.md)
+- [VODA (2023.02.20 ~ 2023.04.07)](./Portfolio/SSAFY/VODA.md)
+- [Corns (2023.01.03 ~ 2023.02.17)](./Portfolio/SSAFY/Corns.md)
 
 ## 👩🏻‍💻 스타트업(무버스(주)) iOS 개발 (2021.08.17 ~ 2022.02.14)
 
@@ -51,22 +51,26 @@
 
 ## Java
 
-- [Reflection](./2.%20CS/1.%20Java/1.%20Reflection.md)
+- [Reflection](./CS/Java/Reflection.md)
 
-## JPA
+## Spring
 
-- [JPA](2.%20CS/2.%20Spring/JPA.md)
-- [QueryDSL](./2.%20CS/2.%20Spring/2.%20QueryDSL.md)
+- [JPA](./CS/Spring/JPA.md)
+- [QueryDSL](./CS/Spring/QueryDSL.md)
+
+## DevOps
+
+- [Kafka](./CS/DevOps/Kafka.md)
+- [CI/CD Tools](./CS/DevOps/CI:CD-Tools.md)
 
 ## DB
 
-- [Nomalization](./2.%20CS/5.%20Database/1.%20Nomalization.md)
-- [Transaction](./2.%20CS/5.%20Database/2.%20Transaction.md)
+- [Nomalization](./CS/Database/Nomalization.md)
+- [Transaction](./CS/Database/Transaction.md)
 
 ## Network
 
-- [Kafka](2.%20CS/4.%20Network/1.%20Kafka.md)
-- [TCP/IP 4계층 모델](./2.%20CS/4.%20Network/2.%20TCP_IP%204계층%20모델.md)
+- [TCP/IP 4계층 모델](./CS/Network/TCP_IP.md)
 
 # 💻 Algorithm
 
@@ -81,6 +85,6 @@
 |          |          | 2025.06.10      | 2025.06.11 | 2025.06.12                | 2025.06.13     | 2025.06.14 |
 |          |          | init repository | Reflection | Nomalization, Transaction | JPA, Portfolio | Portfolio  |
 | 25.06.15 | 25.06.16 | 2025.06.17      | 2025.06.18 | 2025.06.19                | 2025.06.20     | 2025.06.21 |
-| Kafka    | QueryDSL | TCP/IP          |            |                           |                |            |
+| Kafka    | QueryDSL | TCP/IP          | CI/CD      |                           |                |            |
 | 25.06.22 | 25.06.23 | 2025.06.24      | 2025.06.25 | 2025.06.26                | 2025.06.27     | 2025.06.28 |
 |          |          |                 |            |                           |                |            |
