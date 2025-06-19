@@ -87,6 +87,6 @@
 |          |          | 2025.06.10      | 2025.06.11 | 2025.06.12                | 2025.06.13     | 2025.06.14 |
 |          |          | init repository | Reflection | Nomalization, Transaction | JPA, Portfolio | Portfolio  |
 | 25.06.15 | 25.06.16 | 2025.06.17      | 2025.06.18 | 2025.06.19                | 2025.06.20     | 2025.06.21 |
-| Kafka    | QueryDSL | TCP/IP          | CI/CD      |                           |                |            |
+| Kafka    | QueryDSL | TCP/IP          | CI/CD      | Bean, GC                  |                |            |
 | 25.06.22 | 25.06.23 | 2025.06.24      | 2025.06.25 | 2025.06.26                | 2025.06.27     | 2025.06.28 |
 |          |          |                 |            |                           |                |            |
