@@ -52,11 +52,13 @@
 ## Java
 
 - [Reflection](./CS/Java/Reflection.md)
+- [GC](./CS/Java/GC.md)
 
 ## Spring
 
 - [JPA](./CS/Spring/JPA.md)
 - [QueryDSL](./CS/Spring/QueryDSL.md)
+- [Bean](./CS/Spring/Bean.md)
 
 ## DevOps
 
