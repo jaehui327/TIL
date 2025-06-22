@@ -60,7 +60,7 @@
 - [QueryDSL](./CS/Spring/QueryDSL.md)
 - [Bean](./CS/Spring/Bean.md)
 - [DDD](./CS/Spring/DDD.md)
-- 
+
 ## DevOps
 
 - [Kafka](./CS/DevOps/Kafka.md)
