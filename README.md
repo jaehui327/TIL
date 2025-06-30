@@ -14,6 +14,7 @@
 
   > - [Nexacro](./Portfolio/KDN/Nexacro.md)
   > - [전력거래시스템](./Portfolio/KDN/KPX-e-learning.md)
+  > - [JPA Procedure](./Portfolio/KDN/jpa-procedure.md)
 
 - 세네갈 ODA 사업 (2024.10.14 ~ 2025.03.31)
 - EMS (2024.08.05 ~ 2024.10.31)
