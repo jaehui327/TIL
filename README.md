@@ -75,8 +75,9 @@
 
 # 💻 Algorithm
 
-- 코드트리
+### 코드트리
 
+- [코드트리 갬빗](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/codetrees-gambit/description)
 
 # 📊 SQL
 
